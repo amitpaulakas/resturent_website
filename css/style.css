@@ -1,0 +1,321 @@
+*{padding: 0;
+margin: 0;
+outline: 0;}
+
+ul,ol{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+body{
+    font-family: 'Gentium Book Basic', serif;
+    font-family: 'Yeseva One', cursive;
+	font-family: 'Lato', sans-serif;
+	overflow-x: hidden;
+}
+
+
+.hinav{
+    padding: 25px 50px;
+    position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: 1;
+}
+
+.amit a{
+	font-weight: 400;
+                  
+}
+.amit a:hover{
+	color: blue;
+}
+/*.fa-twitter:before{
+color: #dab33e;
+}
+.fa-youtube:before{
+	color: #dab33e;
+}
+.fa-facebook-f:before {
+	color: #dab33e;
+}*/
+.nav-link i{
+	color: #dab33e;
+}
+.nav-link i:hover{
+	color: #dab33e;
+	font-size: 22px;
+	
+
+}
+.banner{
+	background-image: url(../images/banner.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 260px;
+	column-count: 1;
+	
+	
+}
+.banner_overlay h1{
+	font-size: 90px;
+	color: #fff;
+	text-align: center;
+	font-family: 'Yeseva One', cursive;
+	
+}
+.banner_overlay img{
+     margin-left: 580px;
+	margin-top: 5px;
+}
+.buton1 a{position: absolute;
+	padding: 13px 28px;
+	background-color: transparent;
+	margin-top: 150px;
+	margin-left: 450px;
+	text-decoration: none;
+	color: #ffff;
+}
+.buton2 a{position: absolute;
+	padding: 13px 28px;
+	background-color: transparent;
+	margin-top: 150px;
+	margin-left:  750px;
+	text-decoration: none;
+	color: #ffff;
+}
+.buton2 a:hover,
+.buton1 a:hover{
+	background-color:black;
+}
+/*header part css */
+
+/*banner 1st part start*/
+.banner_2nd{
+background-image: url(../images/pattern1.png);
+	height: 711px
+}
+
+.tex_part{
+margin-top: 107px;
+display: block;
+justify-content: center;
+align-items: center;}
+
+.tex_part h2{
+font-size: 36px;
+	color: #cc9900;
+}
+.tex_part img{
+margin-left: 50px;
+}
+tex_part p{
+font-size: 16px;
+	font-family: 'Lato', sans-serif;
+}
+.autograph{
+margin-top: 51px;
+}
+.dis_pic img{
+margin-top: 76px;
+}
+/*banner 1st part end*/
+/*second banner part start*/
+.bannner-3rd{
+	background-image: url(../images/second-banner.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 750px;
+		
+}
+
+
+.third_banner_con{
+	background-color: rgba(0, 0, 0, 0.55);
+	text-align: center;
+    margin-top: 20px;
+	color: #fff;
+	padding: 81px;
+	margin-top: 100px;
+	
+}
+
+/*second banner part end*/
+/*4th banner start*/
+.banner_4th{
+	background-image: url(../images/05-Restrurent.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 977px;
+
+}
+.rate_top{
+	padding-top:158px;
+	
+}
+.same_head h4{
+margin-left: 100px;
+	color: #cc9900;
+	font-size: 36px;
+	margin-top: 55px;
+	text-transform: capitalize;
+}
+.same_head img{
+margin-left: 40px;
+}
+.same_name_head h6{
+font-size: 21px;
+	color:  #cc9900;
+font-family: 'Yeseva One', cursive;
+font-weight: 400;
+}
+.same_name_head h5{
+font-size: 21px;
+	color:  #cc9900;
+font-family: 'Yeseva One', cursive;
+font-weight: 400;
+	
+}
+/*4th banner end*/
+
+
+/*5th banner start*/
+.banner_5th{
+background-image: url(../images/3rd-banner-pic.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 761px;
+	display: block;
+	justify-content: center;
+	align-items: center;
+	
+}
+.banner_5th_con{
+	background-color: rgba(0, 0, 0, 0.81);
+	height: 558px;
+	width: 767px;
+	margin-top: 102px;
+
+}
+.banner_5th_con img{
+margin-left: 280px;
+}
+.banner_5th_con h4,
+.banner_5th_con p{
+text-align: center;
+	color: #fff;
+}
+.banner_5th_con h4{
+   font-size: 36px;
+	font-family: 'Gentium Book Basic', serif;
+	text-transform: capitalize;
+	padding-top: 70px;
+}
+.banner_5th_con p{
+font-size: 25px;
+	font-family: 'Gentium Book Basic', serif;
+	
+}
+.banner_5th_con p span{
+font-size: 96px;
+	font-family: 'Lato', sans-serif;
+}
+.banner_5th_con span sup{
+color: #fff;
+	margin-left: 300px;
+}
+/*5th banner end*/
+/*6th banner css start */
+.banner_6th{
+background-image: url(../images/pattern1.png);
+	height: 711px;
+	
+}
+.sixth_banner_img{
+	margin-top: 101px;
+
+}
+.six_th_banner_con{
+	margin-top: 101px;
+	text-align: center;
+
+}
+.six_th_banner_con h6{
+	margin-left: 150px;
+	font-size: 36px;
+	font-family: 'Yeseva One', cursive;
+	color: #cc9900;
+}
+.six_th_banner_con img{
+	margin-left: 150px;
+}
+.six_th_banner_con P{
+	justify-content: center;
+	margin-left:150px;
+	
+}
+button, input{
+
+	    margin-left: 100px
+}
+label {
+color: #cc9900;}
+.party{
+	margin-left: 35px;
+}
+.button a{
+	position: absolute;
+	display: block;
+	color: #fff;
+	padding: 5px 20px; 
+	text-decoration: none;
+	background-color: #cc9900;
+	margin-top: 50px;
+	margin-left: -25px;
+	transform: all linear .3s;
+}
+.button a:hover{
+	background-color: #2e2d2d;
+	transform: all linear .3s;
+}
+/*6th banner css end*/
+/*fotter part css start*/
+.fotter{
+	height:319px;
+	width: 100%;
+	background-color: black;
+	color: #fff;
+	text-align: center;
+}
+.fotter p{
+	color: #fff;
+	
+
+}
+.fotter h6{
+	color: #fff;
+	margin-top: 50px;
+}
+.fotter ul {
+	
+	margin-left: 80px;}
+.fotter ul li{
+	justify-content: center;
+	float: left;
+	margin-left: 20px
+	
+}
+.fotter ul li a i{
+	color: #fff;
+	font-size: 18px;
+	transform: all linear.5s;
+}
+.fotter ul li a i:hover{
+	color: #cc9900;
+	font-size: 24px;
+	transform: all linear.5s;
+}
+
+/*fotter part css send*/
