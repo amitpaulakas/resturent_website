@@ -1,4 +1,4 @@
-https://amitpaulakas.github.io/amitpaulakas/
+https://amitpaulakas.github.io/resturent_website/
 
 <!--
 **amitpaulakas/amitpaulakas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
